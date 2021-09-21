@@ -11,7 +11,7 @@ var canvas = document.querySelector("#canvas"),
     radius = 1,
     colors = [
         "rgba(64,158,255,0.85)", 
-        "rgba(	255,99,71,0.75)", 
+        "rgba(255,245,238,0.75)", 
         "rgba(230,162,60,0.85)", 
         "rgba(245,108,108,0.85)", 
         "rgba(255,0,255,0.75)"

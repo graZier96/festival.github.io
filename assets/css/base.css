@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Raleway:300,400,900');
   body {
     font-weight: 700;
-    background-color: #212121;
+    background-image: url(../img/mon1.jpeg);
+    background-size: 100% 100%
   }
   body section canvas {
     width: 100vw;
