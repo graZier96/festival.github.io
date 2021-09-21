@@ -10,12 +10,12 @@ var canvas = document.querySelector("#canvas"),
     mouse = { x: -9999, y: -9999 },
     radius = 1,
     colors = [
-      "rgba(0,222,255,0.85)", 
-      "rgba(12,253,74,0.75)", 
-      "rgba(193,253,12,0.85)", 
-      "rgba(192,213,255,0.85)", 
-      "rgba(244,223,254,0.75)"
-    ],
+        "rgba(64,158,255,0.85)", 
+        "rgba(255,255,255,0.75)", 
+        "rgba(230,162,60,0.85)", 
+        "rgba(245,108,108,0.85)", 
+        "rgba(255,0,255,0.75)"
+      ],
     headline = document.querySelector("#headline"),
     ww = window.innerWidth,
     wh = window.innerHeight;
